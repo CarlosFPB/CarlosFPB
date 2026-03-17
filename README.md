@@ -74,8 +74,6 @@ Soy un desarrollador **full stack** con especialidad en **backend y bases de dat
 
 ![CarlosFPB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFPB&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosFPB&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ## 🎯 Mis Fortalezas
@@ -114,7 +112,7 @@ Soy un desarrollador **full stack** con especialidad en **backend y bases de dat
 - **Automatización** de procesos con Python
 - **Arquitecturas full stack** de principio a fin
 
-[→ Ver todos mis repositorios](https://github.com/CarlosFPB?tab=repositories)
+[→ Ver todos mis repositorios publicos](https://github.com/CarlosFPB?tab=repositories)
 
 ---
 
@@ -129,10 +127,8 @@ Soy un desarrollador **full stack** con especialidad en **backend y bases de dat
 
 ## 🤝 Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosfpb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_email@ejemplo.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlosfpb)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fernando-pe%C3%B1a-belloso-b3b21527a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.p.belloso@gmail.com)
 ---
 
 <p align="center">
